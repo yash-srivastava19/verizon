@@ -10,7 +10,8 @@ Please help me make this product into something awesome. Some work which needs t
 - Making different `Exception` classes for different use cases.
 - Making some most commonly used functions as `lambdas` or `decorators`.
 - Testing on Linux, and trying alternative(making a powershell version maybe?) for Windows.
-- Making a small hosting system using *Verizon*.
+- Making a small file hosting system on top of *Verizon* - we can call it whatever you like.
+- Write some strong unit tests.
 - Writing strong and easy to understand documentation.
 
 Create a PR and then we'll discuss further !
